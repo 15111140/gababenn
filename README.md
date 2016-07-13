@@ -7,4 +7,4 @@
 var a=[5.3.0.1.10]
 a.sort(funcyion(a.b){
   if(a<b)
-  
+ !!!!!!!!!!!!!!! 
