@@ -9,3 +9,4 @@ a.sort(funcyion(a.b){
   if(a<b)
  !!!!!!!!!!!!!!! 
 111111111111111
+aiueo
