@@ -11,6 +11,7 @@ a.sort(funcyion(a.b){
 111111111111111
 <<<<<<< HEAD
 aiueo
+kakikukeko
 =======
 222222222222222
 >>>>>>> fa026f45b549fcc3d8d754073c56176d0e2e9763
